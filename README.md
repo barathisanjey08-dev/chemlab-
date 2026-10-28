@@ -8,7 +8,7 @@ An interactive chemoinformatics platform for molecular visualization and chemica
 
 ## 🚀 Live Demo
 
-[**Open ChemLab Virtual Laboratory**]https://chemlab-lfmm.onrender.com/
+[**Open ChemLab Virtual Laboratory**]
 
 ## ✨ Features
 
